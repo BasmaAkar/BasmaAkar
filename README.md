@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basma Akarmass</h1>
- #  <h3 align="center">A Software Engineering Student</h3>
+ <h3 align="center" font-size:"400"  color:"pink">A Software Engineering Student</h3>
 <img  align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif"
 
  #### 🔭 I’m currently enjoying discovering new skills about everything and come up with creative ideas 
