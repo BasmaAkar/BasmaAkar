@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋, I'm Basma Akarmass</h1>
+<h1 align="center">Hi 👋, I'm Basma Akarmass</h1>
 <h3 align="center">A Software Engineering Student</h3>
 <img  align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif"
 
