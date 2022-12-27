@@ -8,7 +8,7 @@
 
  ####  📫 How to reach me **basma.akarmass@etu.uae.ac.ma**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  https://www.linkedin.com/in/basma-akarmass-4b42a8201/</h3>
 <p align="left">
 <a href="https://linkedin.com/in/basma akarmass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basma akarmass" height="30" width="40" /></a>
 </p>
